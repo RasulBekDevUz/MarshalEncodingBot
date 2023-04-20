@@ -4,7 +4,7 @@ import marshal
 import requests
 import telebot
 from telebot import types
-TOKEN = "6282929370:AAGvHtTbPGMPoKc47SVW8jVEyHklUMp0Bl4"
+TOKEN = "YorBotToken"
 
 bot = telebot.TeleBot(TOKEN)
 
